@@ -7,7 +7,7 @@ at the time of delivery. The model is a HistGradientBoostingClassifier trained o
 Brazilian Olist e-commerce dataset and served via a REST API built with Flask.
 
 ## Live URL
-https://hw4-mlops-awcg.onrender.com
+https://hw4-mlops-awcg.onrender.com/health
 
 ## API Documentation
 
